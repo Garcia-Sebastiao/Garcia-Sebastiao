@@ -9,6 +9,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garcia-Sebastiao&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<br>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Garcia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Garcia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,9 +25,13 @@
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 </div
   
+<br>
+  
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=PNClique&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+  
+<br>
 
 ## Social Midias
 
