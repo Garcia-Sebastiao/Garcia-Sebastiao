@@ -4,6 +4,11 @@
 - 🧠 Learning Nextjs, Typescript, and Python
 - 🚀 Always open to new challenges.
 
+<div>
+  <a href="https://beacons.ai/Garcia-Sebastiao">
+  <img height="180em" src="https://github/readme-stats.vercel.app/api?username=Garcia-Sebastiao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Garcia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Garcia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -14,5 +19,4 @@
   <img align="center" alt="Garcia-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Garcia-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Garcia-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  
 </div
