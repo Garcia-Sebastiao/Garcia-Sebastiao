@@ -83,10 +83,6 @@ I'm committed to sharing knowledge and helping others grow in tech. Through ment
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garcia-Sebastiao&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=00ff88&text_color=00ff88&border_color=00ff88" alt="Garcia's Top Languages" />
 </div>
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Garcia-Sebastiao&theme=radical&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 💪 Core Skills
